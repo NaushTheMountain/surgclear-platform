@@ -3,7 +3,9 @@
 > **Current Relay Status**  
 > **Last Active Agent:** Antigravity (Gemini 4 Argon & Gemini 3.8 Flash End-to-End Build)  
 > **Timestamp:** 2026-10-27 16:55 SAST  
-> **Current Status:** Next.js 15 App, B2B REST APIs & Frontends Live, Tested and Verified on `http://localhost:3000`  
+> **Live Production Demo:** [https://surgclear-platform.vercel.app](https://surgclear-platform.vercel.app)  
+> **GitHub Repository:** [https://github.com/NaushTheMountain/surgclear-platform](https://github.com/NaushTheMountain/surgclear-platform)  
+> **Current Status:** Next.js 16 App, B2B REST APIs & Frontends Live and Deployed on Vercel  
 > **Active Sprint:** Complete End-to-End Prototype Live  
 > **TypeScript Errors:** 0 (`npx tsc --noEmit` passed)  
 > **Production Build:** Passed (`npm run build` compiled all 10 routes with 0 errors)  
