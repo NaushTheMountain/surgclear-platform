@@ -98,9 +98,17 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📄 Documentation
+## 📄 Executive Dossier & Strategic Memoranda (PDFs)
 
-- [Executive Commercialisation Blueprint (PDF)](./SurgClear_Commercialisation_Blueprint.pdf)
+1. [**Volume 1: Operational & Technical Architecture (PDF)**](./SurgClear_1_Operational_Architecture.pdf) — System data flow, multi-stakeholder integration, HL7 FHIR R4 schema, POPIA compliance & QR check-in.
+2. [**Volume 2: Monetisation & Financial Model (PDF)**](./SurgClear_2_Monetisation_and_Financial_Model.pdf) — Multi-sided revenue streams, unit economics across specialties, and 3-year ARR pro-forma.
+3. [**Volume 3: Market Gap & Competitive Moat (PDF)**](./SurgClear_3_Market_Gap_and_Competitive_Moat.pdf) — SA healthcare crisis, competitor matrix vs Healthbridge/MediSwitch, and the blue ocean moat.
+4. [**Volume 4: Startup Funding & Capital Strategy (PDF)**](./SurgClear_4_Startup_Funding_and_Capital_Strategy.pdf) — Seed round ask (R7.5M ZAR), 18-month runway, line-item budget, and investor exit returns.
+5. [**Complete Master Commercialisation Blueprint (PDF)**](./SurgClear_Commercialisation_Blueprint.pdf) — Comprehensive omnibus strategic document.
+
+---
+
+## 📄 Documentation
 - [System Architecture Specification (SPEC.md)](./SPEC.md)
 - [Agent & Engineering Guidelines (AGENTS.md)](./AGENTS.md)
 - [Database Schema (001_surgclear_schema.sql)](./supabase/migrations/001_surgclear_schema.sql)
