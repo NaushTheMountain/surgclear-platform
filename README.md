@@ -2,7 +2,19 @@
 
 > **B2B2C South African Healthcare Pre-Authorisation, Financial Clearance & Hospital Pre-Admission Aggregator**
 
-SurgClear bridges the critical gap in South Africa's private surgical ecosystem between specialist practices, private hospital networks, medical schemes (Discovery Health, Bonitas, Momentum), and Gap Cover underwriters (Sirago, Turnberry, Zestlife).
+[![Vercel Deployment](https://img.shields.io/badge/Live_Demo-surgclear--platform.vercel.app-000000?style=for-the-badge&logo=vercel)](https://surgclear-platform.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-NaushTheMountain%2Fsurgclear--platform-181717?style=for-the-badge&logo=github)](https://github.com/NaushTheMountain/surgclear-platform)
+
+---
+
+## 🌐 Live Interactive Demonstration
+
+The full SurgClear demo is deployed live on Vercel:
+
+- **Launchpad & Ecosystem Overview:** [https://surgclear-platform.vercel.app](https://surgclear-platform.vercel.app)
+- **Specialist Booking Cockpit:** [https://surgclear-platform.vercel.app/portal/specialist](https://surgclear-platform.vercel.app/portal/specialist)
+- **4-Step Patient Surgical Pass PWA:** [https://surgclear-platform.vercel.app/pass/EP-9941-ZA](https://surgclear-platform.vercel.app/pass/EP-9941-ZA)
+- **B2B Gateway Telemetry & Revenue Dashboard:** [https://surgclear-platform.vercel.app/developer/inspector](https://surgclear-platform.vercel.app/developer/inspector)
 
 ---
 
